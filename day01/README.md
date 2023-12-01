@@ -1,5 +1,5 @@
 <h1 align="center" bold="true">--- Day 1: Trebuchet?! ---</h1>
-<h3 align="center" bold="true">[https://adventofcode.com/2022/day/1](https://adventofcode.com/2023/day/1)</h3>
+<h3 align="center" bold="true">(https://adventofcode.com/2023/day/1)</h3>
 
 ### --- PART 1 ---
 
